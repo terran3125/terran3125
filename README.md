@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 
   
-[![changduckGO's GitHub stats](https://github-readme-stats.vercel.app/api?username=changduckGO&&theme=vue)](https://github.com/changduckGO/github-readme-stats)
+[![terran3125's GitHub stats](https://github-readme-stats.vercel.app/api?username=terran3125&&theme=vue)](https://github.com/terran3125/github-readme-stats)
 
 ## 🛠Tech Stack🛠
 ### Language 
