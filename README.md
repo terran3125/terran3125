@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi there👋 
-- I'm **Machine Learning Engineer**
-- I'm working in **Seoul, South Korea**
+- My reasearch area is **Technology Financing and Investment Strategy**
+- I live in **Seoul, South Korea**
 
 ## <center>🌟Sangmin Hwang</center>
 <div align=center>
