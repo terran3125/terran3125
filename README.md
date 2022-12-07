@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?text=안녕&type=Waving&fontsize=90&color=23D96C&fontColor=FFFFFF&height=400)
+![header](https://capsule-render.vercel.app/api?text=&type=Waving&fontsize=90&color=23D96C&fontColor=FFFFFF&height=400)
 
 
 <!--
